@@ -1,1 +1,2 @@
 
+dpk install wazuh-agent
