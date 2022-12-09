@@ -1,2 +1,3 @@
+# Instalacion wazuh-agent Freebsd
 
-dpk install wazuh-agent
+  dpk install wazuh-agent
